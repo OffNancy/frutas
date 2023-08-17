@@ -1,0 +1,47 @@
+
+
+header{
+    height: 14rem;
+      background-image: url(./frutas.jpg);
+     background-size: 100%;
+     background-position: center;
+     background-repeat: no-repeat;
+}
+h1{
+     font-family: cursive;
+     color: orangered;
+     justify-content: center;
+     align-items: center;
+     display: flex;
+}
+
+p{
+     font-size: 1.2rem;
+     margin-left: 250px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     width: 600px;
+     border: solid 2px orange;
+   border-radius: 40px;
+   border-top: 0;
+   border-bottom: 0;
+   
+}
+section{
+     display: flex ;
+     
+}
+div{
+     margin: 17px;
+     color: orangered;
+}
+
+
+#divis {
+     position: relative;
+     margin-top: 26rem;
+     right: 60rem;
+}
+
+
